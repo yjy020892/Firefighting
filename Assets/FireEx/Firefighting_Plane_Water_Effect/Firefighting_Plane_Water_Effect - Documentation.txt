@@ -1,0 +1,7 @@
+This Firefighting Plane Water Effect creates realistic falling particles that descend and spread from the back of the plane. The particle's texture animation creates a billowing, diffused vapour effect.
+
+Load "Firefighting_Plane_Water_Effect.unity" for an example scene, or drag the required effect from the Prefabs folder into the Hierarchy window. You'll want to parent the effect to the plane (drag it on top of the plane node in the hierarchy to make it a chile).
+
+Have fun!
+
+Thanks for purchasing this asset - please consider rating or writing a review. If you have any questions then don't hesitate to get in touch at bendurrant@rivermillstudios.com
